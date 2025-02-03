@@ -12,7 +12,7 @@ def get_info():
         "email": "obidikeemmanuel@outlook.com",  # Replace with your actual email
         "current_datetime": datetime.utcnow().replace(tzinfo=timezone.utc).isoformat(timespec='seconds').replace("+00:00", "Z"),
 
-        "github_url": "https://github.com/Bishop121/your-repo"  # Replace with your actual repo URL
+        "github_url": "https://github.com/Bishop121/hng12_stage_00"  # Replace with your actual repo URL
     }
     return jsonify(response_data), 200
 

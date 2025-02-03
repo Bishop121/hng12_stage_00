@@ -46,7 +46,7 @@ pip install -r requirements.txt
 python app.py
 ```
 
-The API will be available at `http://127.0.0.1:5000/`
+The API will be available at `https://hng12-stage-00.onrender.com/`
 
 ## Deployment Instructions
 ### **Deploying on Heroku**
@@ -70,7 +70,7 @@ The API will be available at `http://127.0.0.1:5000/`
 
 ## Useful Links
 - **Python Developers**: [https://hng.tech/hire/python-developers](https://hng.tech/hire/python-developers)
-- **GitHub Repository**: [https://github.com/yourusername/your-repo](https://github.com/yourusername/your-repo)
+- **GitHub Repository**: [https://github.com/Bishop121/hng12_stage_00](https://github.com/Bishop121/hng12_stage_00)
 
 ---
 **Author**: Obidike Chukwuebuka 
