@@ -2,10 +2,6 @@ from flask import Flask, jsonify
 from datetime import datetime, timezone
 from flask_cors import CORS
 
-try:
-    import micropip  # Check if micropip is required in your environment
-except ModuleNotFoundError:
-    micropip = None  # Handle the missing module gracefully
 
 app = Flask(__name__)
 CORS(app)  # Enable CORS
